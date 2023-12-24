@@ -1,3 +1,12 @@
+![image](https://github.com/Nushrat-Tarmin-Meem/System_Project_Edu_Scan_App/assets/127888834/7bd7d187-7701-4b96-9c80-f3b9c00f10f6)
+# Use Case Diagram
+![image](https://github.com/Nushrat-Tarmin-Meem/System_Project_Edu_Scan_App/assets/127888834/0f8370cd-d7ae-4765-a13b-aaf71db5b31a)
+# UML Diagram
+![image](https://github.com/Nushrat-Tarmin-Meem/System_Project_Edu_Scan_App/assets/127888834/c6b23d91-2201-4e18-ab22-6a0773444e52)
+![image](https://github.com/Nushrat-Tarmin-Meem/System_Project_Edu_Scan_App/assets/127888834/7b6962c4-7269-4c1d-88e8-5831be1009a0)
+![image](https://github.com/Nushrat-Tarmin-Meem/System_Project_Edu_Scan_App/assets/127888834/0470a81b-470d-409d-a7ef-21c936a02fb7)
+![image](https://github.com/Nushrat-Tarmin-Meem/System_Project_Edu_Scan_App/assets/127888834/4ce906eb-b9ea-4d94-afe2-96bd2e92bd1a)
+![image](https://github.com/Nushrat-Tarmin-Meem/System_Project_Edu_Scan_App/assets/127888834/e9e6955e-61ab-4ad8-aa33-85de7cefa78c)
 # Mockup Design of Edu Scan App
 <table>
   <tr><th>Splash Screen</th><th>Sign Up Activity</th></tr>
